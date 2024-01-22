@@ -1,0 +1,13 @@
+movies:
+  - id: 1
+    name: "シン・ゴジラ"
+    releaseYear: "2016"
+    country: "日本"
+  - id: 2
+    name: "RRR"
+    releaseYear: "2022"
+    country: "インド"
+  - id: 3
+    name: "アイアンマン"
+    releaseYear: "2008"
+    country: "アメリカ"
